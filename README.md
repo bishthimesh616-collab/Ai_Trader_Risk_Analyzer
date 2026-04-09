@@ -101,4 +101,51 @@ This project focuses on understanding trader behavior in financial markets. It u
 
 
 
+---
+
+## 🌐 Live Demo
+
+https://trading-risk-analyzer.streamlit.app/
+
+---
+
+## 📊 Sample Output
+
+- Risk Level: HIGH ⚠️  
+- Trader Type: Aggressive Trader 🔴  
+- Advice: Reduce trading frequency and manage risk  
+
+---
+
+## 🧠 Working Process
+
+1. User enters trading data (PnL)
+2. System generates or fetches market sentiment
+3. Machine learning model predicts risk level
+4. K-Means clustering identifies trader type
+5. System displays results and recommendations
+
+---
+
+## 🔮 Future Scope
+
+- Integration with real-time market sentiment APIs  
+- Support for multiple markets (stocks, forex)  
+- Mobile application development  
+- Advanced machine learning models  
+
+---
+
+## 👨‍💻 Author
+
+Himesh Singh Bisht  
+B.Tech CSE Student  
+
+---
+
+## ⭐ Acknowledgement
+
+This project demonstrates the application of machine learning and data analysis in financial trading systems to improve decision-making and reduce risk.
+
+
 
